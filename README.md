@@ -6,7 +6,7 @@
 - Aqui vou compartilhar com vocês um pouco da minha tragetória como desenvolvedor. Vamos lá?!?
 
 <div align="center">
-  <a href="https://github.com/rwsleal">
+  <a href="https://github.com/richard-leal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwsleal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
