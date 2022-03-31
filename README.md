@@ -2,7 +2,8 @@
 
 - Sou bacharel em ciência e tecnologia e engenheiro químico pela Universidade Federal de Alfenas;
 - Durante a engenharia tive um primeiro contato com programação e me apaixonei e por isso, após formado, decidi fazer da programação um hobby;
-- Hoje, sou aluno da Trybe e sigo aprendendo mais sobre programação, buscando me tornar um desenvolvedor Front-End. Mas esse é só o começo! 😊
+- Hoje, sou aluno da Trybe e sigo aprendendo mais sobre programação, buscando me tornar um desenvolvedor web Full-Stack. Mas esse é só o começo! 😊
+- Já finalizei os módulos de fundamentos e Front-End e atualmente tenho me dedicado a aprender cada vez mais sobre Back-End;
 - Aqui vou compartilhar com vocês um pouco da minha tragetória como desenvolvedor. Vamos lá?!?
 
 <div align="center">
