@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Richard, mas algumas pessoas me chamam de RichieL, então fique à vontade! 👋
 
 - Sou bacharel em ciência e tecnologia e engenheiro químico pela Universidade Federal de Alfenas;
-- Durante a engenharia tive um primeiro contato com programação e me apaixonei e por isso, após formado, decidi fazer da programação um hobby;
+- Durante a graduação tive um primeiro contato com programação (C, python e matlab) e acabei virando um entusiasta;
+- Após formado, me dediquei a conhecer mais sobre programação e após alguns cursos na Udemy, resolvi procurar um curso mais robusto que me possibilitasse seguir a carreira de developer.
 - Hoje, sou aluno da [Trybe](https://www.betrybe.com/) e sigo aprendendo mais sobre programação, buscando me tornar um desenvolvedor web Full-Stack. Mas esse é só o começo! 😊
-- Já finalizei os módulos de fundamentos e Front-End e atualmente tenho me dedicado a aprender cada vez mais sobre Back-End;
+- Já finalizei os módulos de fundamentos e Front-End (HTML, CSS, JavaScript e React) e atualmente tenho me dedicado a aprender cada vez mais sobre Back-End;
 - Aqui vou compartilhar com vocês um pouco da minha tragetória como desenvolvedor. Vamos lá?!?
 
 <div align="center">
